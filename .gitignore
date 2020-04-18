@@ -1,0 +1,7 @@
+*.swp
+.vscode
+*.pyc
+__python__
+venv
+python3
+python
